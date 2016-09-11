@@ -1,0 +1,6 @@
+
+## GitHub Global Setting
+git config --global url.ssh://git@github.com/.insteadOf https://github.com/
+
+## BitBucket Global Setting 
+git config --global url.ssh://git@bitbucket.org/.insteadOf https://bitbucket.org/
